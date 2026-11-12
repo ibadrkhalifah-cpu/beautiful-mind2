@@ -1,0 +1,1 @@
+{ "name": "العقل الجميل", "short_name": "العقل الجميل", "lang": "ar", "dir": "rtl", "start_url": "/", "display": "standalone", "background_color": "#F1F0FA", "theme_color": "#4E0B99", "icons": [{ "src": "/icon.png", "sizes": "512x512", "type": "image/png" }] }
